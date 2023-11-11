@@ -51,7 +51,7 @@
         <dependency>
             <groupId>org.apache.avro</groupId>
             <artifactId>avro</artifactId>
-            <version>1.8.1</version>
+            <version>1.11.3</version>
             <exclusions>
                 <!-- tika-parsers-1.25 requires commons-compress-1.20 -->
                 <exclusion>
